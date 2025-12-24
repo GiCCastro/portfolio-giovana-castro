@@ -1,8 +1,8 @@
-# 🌟 Portfólio Web - Giovana
+# Portfólio Web - Giovana
 
 Este é um projeto de portfólio web pessoal desenvolvido para destacar informações profissionais, habilidades, idiomas, experiências e projetos de forma moderna e interativa.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Apresentação Pessoal:** Mostra foto, nome, profissão, localização, telefone, email de contato, linkedin e github.
 - **Habilidades:** Lista habilidades técnicas e interpessoais.
@@ -16,7 +16,7 @@ Este é um projeto de portfólio web pessoal desenvolvido para destacar informa�
 - **Proteção ao Usar _blank:** Adiciona `rel="noopener noreferrer"` a links com `target="_blank"` para melhorar a segurança.
 - **Integração com WhatsApp:** Links para WhatsApp usando `https://api.whatsapp.com/send?phone=`.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** para estruturação do conteúdo.
 - **CSS3** para estilização e design responsivo, utilizando:
