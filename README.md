@@ -28,7 +28,7 @@ Este é um projeto de portfólio web pessoal desenvolvido para destacar informa�
   - Fetch API para buscar dados de um arquivo JSON hospedado no repositório da DIO.
 - **GitHub** para controle de versão e hospedagem do código.
 
-## 📧 Contato
+## Contato
 
 Para dúvidas ou sugestões, entre em contato:
 - **Email:** [gicristina.scastro@gmail.com](mailto:gicristina.scastro@gmail.com)
